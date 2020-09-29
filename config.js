@@ -4,14 +4,13 @@ require("@firebase/firestore")
 
 // Initialize Firebase
 var firebaseConfig = {
-    apiKey: "AIzaSyAMW87I3aehUsTmQ-LXmNvxw8QZ1e0Xwto",
-    authDomain: "bed-time-stories-805e9.firebaseapp.com",
-    databaseURL: "https://bed-time-stories-805e9.firebaseio.com",
-    projectId: "bed-time-stories-805e9",
-    storageBucket: "bed-time-stories-805e9.appspot.com",
-    messagingSenderId: "74595764582",
-    appId: "1:74595764582:web:9a930873bddda1e548e0a7",
-    measurementId: "G-1X269F7P47"
+    apiKey: "AIzaSyCxFYqlHyIQhcykPlcXeuWi-IXA6cfwK7k",
+    authDomain: "bedtime-stories-cf43b.firebaseapp.com",
+    databaseURL: "https://bedtime-stories-cf43b.firebaseio.com",
+    projectId: "bedtime-stories-cf43b",
+    storageBucket: "bedtime-stories-cf43b.appspot.com",
+    messagingSenderId: "368890692049",
+    appId: "1:368890692049:web:962275efa9a51c7558a0f0"
   };
 
 
